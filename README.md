@@ -1,12 +1,14 @@
-### Hi there 👋, I'm a student trying to learn more and more. Fell free to contact me and let's be friends
+## Olá! Eu me chamo Lorenzo Brugnolo Rosa
 
-<!--
-**lobrug/lobrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudando Engenharia de Computação na UTFPR-AP.
+- 🏡 Residente de Apucarana-PR.
+- 👨‍💻 Avançando conhecimentos sobre C e C++.
+- 🏢 Procurando atuar na área de desenvolvimento.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on college wors
-- 🌱 I’m currently learning C language
-- 👯 I’m looking to collaborate on a project that can teach me
-- ⚡ Fun fact: ... I play fps games
--->
+<h3>Minhas Skills</h3>
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+  ##

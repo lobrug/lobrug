@@ -2,7 +2,7 @@
 
 - 🔭 Estudando Engenharia de Computação na UTFPR-AP.
 - 🏡 Residente de Apucarana-PR.
-- 👨‍💻 Avançando conhecimentos sobre C e C++.
+- 👨‍💻 Avançando conhecimentos sobre C, C++ e Java.
 - 🏢 Procurando atuar na área de desenvolvimento.
 
 <h3>Minhas Skills</h3>

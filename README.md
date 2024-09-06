@@ -1,14 +1,29 @@
-## Olá! Eu me chamo Lorenzo Brugnolo Rosa
+# Olá, eu sou [Seu Nome](https://github.com/seu-usuario) 👋
 
-- 🔭 Estudando Engenharia de Computação na UTFPR-AP.
-- 🏡 Residente de Apucarana-PR.
-- 👨‍💻 Avançando conhecimentos sobre C, C++ e Java.
-- 🏢 Procurando atuar na área de desenvolvimento.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você pode encontrar alguns dos meus projetos e contribuições.
 
-<h3>Minhas Skills</h3>
+## Sobre Mim
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🔭 Atualmente estou estudando em [UTFPR-AP].
+- 🌱 Estou aprendendo mais sobre [Java].
 
-  ##
+## Habilidades
+
+- **Linguagens de Programação**: Java, C, C++.
+- **Ferramentas e Tecnologias**: Git.
+
+## Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
+![Línguas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&hide=html&layout=compact&hide_border=true&theme=radical)
+
+## Contato
+
+- 📧 Email: [Seu Email](lorenzobrugnolocontato@gmail.com)
+
+---
+
+Obrigado por visitar meu perfil! 🚀
+
+

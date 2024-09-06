@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome](https://github.com/seu-usuario) 👋
+# Olá, eu sou [Lorenzo Brugnolo](https://github.com/lobrug) 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você pode encontrar alguns dos meus projetos e contribuições.
 

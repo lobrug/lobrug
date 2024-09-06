@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## Contato
 
-- 📧 Email: [Seu Email](lorenzobrugnolocontato@gmail.com)
+- 📧 Email: lorenzobrugnolocontato@gmail.com
 
 ---
 

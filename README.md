@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## Habilidades
 
-- **Linguagens de Programação**: Java, C, C++.
+- **Linguagens de Programação**: Java, C.
 - **Ferramentas e Tecnologias**: Git.
 
 ## Estatísticas

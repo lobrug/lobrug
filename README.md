@@ -5,11 +5,11 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## Sobre Mim
 
 - 🔭 Atualmente estou estudando em [UTFPR-AP].
-- 🌱 Estou aprendendo mais sobre [Java].
+- 🌱 Estou aprendendo mais sobre [C++].
 
 ## Habilidades
 
-- **Linguagens de Programação**: Java, C.
+- **Linguagens de Programação**: Java, C, C++.
 - **Ferramentas e Tecnologias**: Git.
 
 ## Estatísticas
